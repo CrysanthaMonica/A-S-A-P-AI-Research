@@ -1,4 +1,4 @@
-# SMARTPRICINGAPP (A-S-A-P) “As Soon As Pay”
+# SMART PRICING APP (A-S-A-P) “As Soon As Pay”
 [Link File](https://drive.google.com/file/d/1anmixh_maD6vDqaIjEk0WDwYbZQqJpa3/view?usp=sharing)
 
 ## Table of Contents
